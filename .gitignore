@@ -1,1 +1,2 @@
 ./ner-service/venv
+./api-server-app/.env
